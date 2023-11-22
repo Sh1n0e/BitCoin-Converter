@@ -1,6 +1,6 @@
 import requests
 
-
+# https://github.com/Sh1n0e/NET2008Assignment3 - link to github repo
 # This scripts is getting data from CoinDesk API
 
 url = "https://api.coindesk.com/v1/bpi/currentprice.json"
